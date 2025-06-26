@@ -50,7 +50,7 @@ Metrics:
 * **F1 Score**: 95.38%
 * **ROC AUC**: 95.31%
 
-> *Note: These values will be updated based on final model output.*
+
 
 
 
